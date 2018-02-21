@@ -74,3 +74,8 @@
   use libsodium and avoid all NIST standards except SHA-2.
 * Ask on [Cryptoraphy Stack Exchange](https://crypto.stackexchange.com/)
 
+
+
+
+![img](img.PNG)
+
